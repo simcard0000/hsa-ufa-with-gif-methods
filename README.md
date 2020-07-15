@@ -3,7 +3,7 @@
 # hsa-ufa-with-gif-methods
 🗝 A piece of programming history from Holt Software Associates!
 
-*This is my own copy of the library - for the most up to date version of this, check out [this](https://github.com/salamander2/HSA2/).*
+*This is my own copy of the library - for the most up to date version, check out [this](https://github.com/salamander2/HSA2/).*
 
 ### About
 From this [useful lesson](http://quarkphysics.ca/ICS3U1/unit4/pdf/1.%20Intro%20to%20HSA2%20Graphics.pdf) on how to use the library:
